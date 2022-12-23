@@ -1,0 +1,14 @@
+html {
+    font-size: 20px;
+    background-color: rgb(233, 197, 203);
+  }
+.address-to-right-side{
+  text-align: right;
+}
+body{
+  max-width: 800px;
+  margin: 50px auto;
+}
+a:hover{
+  background-color: rgb(230, 163, 69);
+}
